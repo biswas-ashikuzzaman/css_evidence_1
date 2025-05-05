@@ -93,3 +93,14 @@ button{
     text-align: center;
     font-family: fantasy;
 }
+table{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+table:hover{
+    background-color: burlywood;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
